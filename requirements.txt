@@ -1,5 +1,5 @@
-opencv-python-headless
-numpy
-ultralytics
-mediapipe
 websockets
+aiortc
+aiohttp
+av
+numpy
